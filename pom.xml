@@ -7,6 +7,7 @@
     <groupId>com.github.dearaison</groupId>
     <artifactId>java-maven-template</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <name>Java Maven Template</name>
 
