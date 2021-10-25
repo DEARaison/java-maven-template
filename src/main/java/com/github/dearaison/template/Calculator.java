@@ -8,14 +8,7 @@ import java.util.Properties;
  *
  * @author Joseph Maria
  */
-class Calculator {
-    private final int a;
-    private final int b;
-
-    Calculator(int a, int b) {
-        this.a = a;
-        this.b = b;
-    }
+record Calculator(int a, int b) {
 
     static String getVersion() throws IOException {
         Properties properties = new Properties();

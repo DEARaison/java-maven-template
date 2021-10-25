@@ -1,12 +1,10 @@
 package com.github.dearaison.template;
 
-
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
 
 /**
  * Created by IntelliJ on Sunday, 20 September, 2020 at 11:22.
