@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * Created by IntelliJ on Thursday, 06 January, 2022 at 11:57.
+ * Created by IntelliJ on Thursday, 06 January 2022 at 11:57.
  *
  * @author DEA Raison
  */

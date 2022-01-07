@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertInstanceOf;
 
 /**
- * Created by IntelliJ on Thursday, 06 January, 2022 at 12:02.
+ * Created by IntelliJ on Thursday, 06 January 2022 at 12:02.
  *
  * @author DEA Raison
  */
