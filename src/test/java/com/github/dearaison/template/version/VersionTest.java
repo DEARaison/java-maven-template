@@ -13,16 +13,15 @@ import static org.junit.jupiter.api.Assertions.assertInstanceOf;
  * @author DEA Raison
  */
 class VersionTest {
-
     @Test
-    void getInstance() {
+    public void getInstance() {
         assertInstanceOf(Version.class, Version.getInstance());
     }
 
     @Test
-    void getVersion() throws IOException {
+    public void getVersion() throws IOException {
         String version = Version.getInstance().getVersion();
-        assertEquals("1.0.0-SNAPSHOT", version);
+        assertEquals("1.0.0-SNAPSHOT", version, "Current version should be 1.0.0-SNAPSHOT");
         System.out.println("Current version: " + version);
     }
 }
