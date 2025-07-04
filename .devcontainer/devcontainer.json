@@ -28,7 +28,9 @@
 				"streetsidesoftware.code-spell-checker",
 				"vscjava.vscode-java-pack",
 				"redhat.vscode-xml",
-				"github.vscode-github-actions"
+				"github.vscode-github-actions",
+				"george-alisson.html-preview-vscode",
+				"bierner.docs-view"
 			]
 		}
 	}
