@@ -6,7 +6,7 @@
 	"image": "mcr.microsoft.com/devcontainers/java:1-21-bullseye",
 
 	"hostRequirements": {
-		"cpus": 8,
+		"cpus": 4,
 		"memory": "16gb",
 		"storage": "32gb"
 	},
