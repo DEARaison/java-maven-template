@@ -5,12 +5,6 @@
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/java:1-21-bullseye",
 
-	"hostRequirements": {
-		"cpus": 4,
-		"memory": "16gb",
-		"storage": "32gb"
-	},
-
 	"features": {
 		"ghcr.io/devcontainers/features/java:1": {
 			"version": "none",
